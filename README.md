@@ -1,4 +1,4 @@
-### Hi there 👋
+### 20211115 Welcome to the online church of Aleksander Nevskii, Grand Prince of Novgorod. When complete, this church will allow us to gather in celebration of the divinity of the lord, in a beautiful online church.
 
 <!--
 **nevskytserkov/nevskytserkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
